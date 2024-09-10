@@ -55,3 +55,8 @@ Tipos de dados (string, number, boolean)
  - [x] Criar, passsar argumento
  - [X] Executar
  - [x] Arrow function / named function
+
+ ### Estrutura de repetição
+
+ - [x] While
+ 
