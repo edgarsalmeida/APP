@@ -56,7 +56,10 @@ Tipos de dados (string, number, boolean)
  - [X] Executar
  - [x] Arrow function / named function
 
- ### Estrutura de repetição
+ # Estrutura de repetição
 
  - [x] While
- 
+
+ # Condicionais
+
+ - [x] Switch
