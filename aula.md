@@ -10,7 +10,7 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 - [x] Comentários
 - Declaração de variáveis (const, let)
 - Operadores (atribuição, metemáticos, lógicos)
-Tipos de dados (string, number, boolean)
+- Tipos de dados (string, number, boolean)
 - Estrutura de dados (functions, object, array)
 - Controle de fluxo (if/else)
 - Estrutura de repetição (for, while)
@@ -32,11 +32,11 @@ Tipos de dados (string, number, boolean)
  - [x] Number: 2, 1.4
  - [x] Boolean: true, false
 
-
  ## Operadores
 
  - [x] Operadores de atribuição de valor =
  - [x] Operador de contatenação +
+ - [x] Operadores de comparação: ==, !=, <= >=, < >
 
  ## Estruturas de dados:
 
@@ -58,13 +58,20 @@ Tipos de dados (string, number, boolean)
 
  # Estrutura de repetição
 
- - [x] While
+ - [x] while
 
  # Condicionais
 
- - [x] Switch
+ - [x] switch
+ - [x] if/else
 
  ## Módulos em Node.js:
 
  - [x] Importação de módulos (require, CommonJS)
  - [x] Biblioteca 'inquirer' para criar prompts interativos
+
+ ## Programação assincrona e Promises:
+
+ - [x] Uso de funções assincronas (async/await)
+
+ 
